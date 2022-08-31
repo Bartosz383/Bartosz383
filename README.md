@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Bartosz Kruszyński 👋
+
+🔭 I am a student of mechanics and machine construction at the Poznan University of Technology, Poland
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartosz383)](https://github.com/Bartosz383/github-readme-stats)
 
 <!--
 **Bartosz383/Bartosz383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
