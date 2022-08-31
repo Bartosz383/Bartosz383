@@ -9,6 +9,10 @@
 📫 You can reach me at:<br>
 [LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/)
 
+I'm a member of a Cience Club RPG (Game Development), coding and designing. Currently project [Escape Room The Game](https://github.com/Aenvis/escape-room-game)
+
+I'm a volunteer at [Freelab association](https://www.facebook.com/freelab). Where I do 3d modeling and printing, help organize workshops and do challenging projects
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartosz383)](https://github.com/Bartosz383/github-readme-stats)
 
 <!--
