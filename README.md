@@ -6,7 +6,7 @@
 
 👀 I’m interested in 3D printing, soft robotics, programming, sports, fantasy and history
 
-📫 You can reach me at:
+📫 You can reach me at:<br>
 [LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartosz383)](https://github.com/Bartosz383/github-readme-stats)
