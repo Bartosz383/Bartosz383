@@ -1,6 +1,13 @@
 ### Hi there, I'm Bartosz Kruszyński 👋
 
-🔭 I am a student of mechanics and machine construction at the Poznan University of Technology, Poland
+🔭 I am a student of Mechanical Engineering at the Poznan University of Technology, Poland
+
+🌱 I’m currently learning Python, C# and Unity Engine and studing mechanical engineering
+
+👀 I’m interested in 3D printing, soft robotics, programming, sports, fantasy and history
+
+📫 You can reach me at:
+[LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bartosz383)](https://github.com/Bartosz383/github-readme-stats)
 
