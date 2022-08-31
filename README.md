@@ -7,7 +7,7 @@
 👀 I’m interested in 3D printing, soft robotics, programming, sports, fantasy and history
 
 📫 You can reach me at:<br>
-[LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/)
+[LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/) | discord Kustosz Barzyński#9695 | kruszynskibartosz1@gmail.com
 
 I'm a member of a Cience Club RPG (Game Development), coding and designing. Currently project [Escape Room The Game](https://github.com/Aenvis/escape-room-game)
 
