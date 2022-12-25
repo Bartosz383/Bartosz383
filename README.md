@@ -2,7 +2,7 @@
 
 🔭 I am a student of Mechanical Engineering at the Poznan University of Technology, Poland
 
-🌱 I’m currently learning Python, C# and Unity Engine and studing mechanical engineering
+🌱 I’m currently learning Python, C# and Unity Engine, Unreal Engine and studing mechanical engineering
 
 👀 I’m interested in 3D printing, soft robotics, programming, sports, fantasy and history
 
