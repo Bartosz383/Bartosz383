@@ -9,7 +9,8 @@
 📫 You can reach me at:<br>
 [LinkedIn](https://www.linkedin.com/in/bartosz-kruszyński-22214923a/) | discord Kustosz Barzyński#9695 | kruszynskibartosz1@gmail.com
 
-I'm a member of a Cience Club RPG (Game Development), coding and designing. Currently project [Escape Room The Game](https://github.com/Aenvis/escape-room-game)
+I'm a member of a Cience Club RPG (Game Development)  
+<!--, coding and designing. Currently project [Escape Room The Game](https://github.com/Aenvis/escape-room-game) -->
 
 I'm a volunteer at [Freelab association](https://www.facebook.com/freelab). Where I do 3d modeling and printing, help organize workshops and do challenging projects
 
